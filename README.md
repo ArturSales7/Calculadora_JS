@@ -9,15 +9,3 @@ Projeto com foco em **aprendizado**, onde desenvolvo uma **calculadora web** uti
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" title="React">
 </div>
 
----
-
-### Sobre o Projeto
-Este projeto é apenas para prática e aprendizado das tecnologias web modernas. A calculadora possui funcionalidades básicas como adição, subtração, multiplicação e divisão, com interface amigável e interativa.
-
----
-
-### Tecnologias Utilizadas
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React
